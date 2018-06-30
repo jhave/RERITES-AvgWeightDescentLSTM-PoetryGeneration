@@ -1,0 +1,6456 @@
+########
+
+
+jhave@jhave-Ubuntu:~$ cd '/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model'jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ python generate_2017-INFINITE-1M_tab_inc.py   --checkpoint='models/model-LSTM-emsize-1500-nhid_1500-nlayers_2-batch_size_20-epoch_22-loss_6.02-ppl_412.68.pt' --cuda
+
+
++~+
+
+
+Initializing INCREMENTAL TEMPERATURE RANGE.
+
+
+########
+
+
+
+		                                                                                                        
+
+
+ Febris
+
+ Think of the fertile poor 
+ And old humble hubris
+
+
+
+		~ + ~
+           
+
+
+	 
+ A rainbow's heart loosed everywhere
+ A stale ceremony  of heaven drowned.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+ 
+ 
+ 
+ In this world 
+ I am one of the arguments.
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+	 
+
+	 The heart is the dead 
+	       air of the soul
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 The Messenger 
+	 
+	 Is the dead one who is born.
+	 She is the first of the sun.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ In the heat of the heart of the thing 
+     I find grass in the sky
+         and water at a place of storm
+ 
+ 
+
+		~ + ~
+            
+
+
+
+
+
+
+
+	 Cold white and absolutely red, 
+	 The tortoise air used to speak
+	 What need counted in the heart
+
+		 The eyes of the gods  
+		 Hidden in a dark sun
+
+
+
+
+
+
+
+
+		~ + ~
+        
+
+
+
+
+
+		kelp covered the mess 
+		on my side of the bed
+
+		it was in love with 
+		  my mother's 
+		     unseen eyes
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Oh, I cannot say how to seek feeling 
+And not the pain that is summer to gods.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+The Golden Wheel of the beautiful
+ 	       it's a simple business. 
+ 
+ Yellow leaves reflected in blood. 
+
+	 The future 
+	      dumb as a stick vulture.
+
+	              A dawn bursting. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 We are laid 
+	     in the overwhelming book 
+	     in the blue-green storm. 
+	 
+	 The place that is always involved 
+	 In the words that are life, listened. 
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+	You 
+
+ Earth's green arcade of reason 
+ Sprouting in the hot winter
+ Glimmering ideas strewn in blown water 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	    nature  becomes nets 
+	unbalanced archipelagoes
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Old butterflies
+     precipitate
+ 				    transgression 
+                        conveyors 
+
+				   metempsychosis 
+				   naked thieving
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Abhorre
+
+ I hold the dark full (glass eucalypt) onanist
+      downward defiant drenched drooping erect
+    				        droning brain-dead 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ When celebration
+  took flight
+  some practice stored 
+  enough for servitude.
+
+It penetrated some wounds: 
+  outbound, bodyisms 
+  humid deities, hairy passions,
+  faked daffodils.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Fretum castoffs, breast-bone-bots; 
+             meat-links,  vida-fortuna,
+ puzzling cavities,  work-cot water-jets. 
+
+
+ Truly, this love wears itself.
+
+ 
+             Narcissus: condensed quiet 
+  jewel of newly-enlightened enthusiasm
+   -- a difference where every envelope 
+                               vanishes.
+
+
+
+ Rung and handled, you don't know how 
+ Inserting Titanic into the network's 
+ framed breathlessness taunts Styria. 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	A raft of milk 
+	   the size of a bird 
+
+	     a Death—Sharp magician 
+	     a Stygian Bridge Sleeping
+	  
+	 I saw the soul of my own hand was sweet. 
+	 You ate me.
+	 We felt the pleasures of the earth and death. 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+On the mute side of the shop 
+ no money would have been born. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+ 
+ And the long bright order of their eyes 
+ Came on the uprising of heroic mysteries 
+ And now they are an annual product of time.
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ long anguish, all over the world
+ the vast soiled trembled roaring
+
+		 	love made things
+		                      die
+
+
+		            tragic warmth
+		             glistening
+		           means the tomb
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 Crotch-of-moss
+	 multi-track loop
+
+	 I kill it now. 
+	 Ardor, reawakened, jerks. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Quicksand joke lens:
+Eschatology of my broken life.
+
+My plastic impatient pleased Jihad 
+  veteran fresh brawls in a circus 
+  of rose-flush ragged whorehouses.
+
+ Veil-ripped greeds, 
+ Passions hailed, & ribbed
+
+ Welala Napkins
+ Fanatic Furies
+
+ Accustomed to blood 
+ This crazy him asks
+  -— why are you not stoned?
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Normal Sea: 
+ Peddlar's sapphire-saucepan.
+
+ Superstition. 
+ Primavera. 
+
+ Manhattan bed-psychotherapy idyllic.
+
+ Shield balm, Softy avoided.
+ Flint, underground deleted.
+
+ Manure, starved. 
+ Skinnydip agnostic.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+
+	 
+	 The Fatalist: 
+
+	 You are not  so much 
+	 The way the world is
+
+			   as a dream 
+			     of small 
+			 and arrogant 
+			        music
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 the sun is a wind on the sea,
+	 and the sea is a cloud. 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+   And the blind garden on the edge 
+ Of time, inviolable, no longer can
+     be real 
+
+     nor be the darkness 
+        of the swallow's 
+	    flesh that bears place.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+A flock of steel stretched 
+  from her chest.
+
+  She thought she could be 
+ an infinitesimal abstraction. 
+	 
+	 Fallen wings lying naked 
+	  in the shade of the owl. 
+	 
+	 Children, attached to the ground,
+	       fighting with swollen eyes.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ I put the old bear of everything, 
+ humble within the daïs of my own desire. 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+     Pardon us for the plants:
+
+	 They hurry over the earth, 
+	       and where they move, 
+	                   we wait.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Secular consciousness notochord
+				  fluff of gold 
+					   urbanity
+
+				  contingent 
+				  memory 
+				  barrenness 
+				  submerged 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ I am sounding the acceleration of heartbreak.
+
+
+ The unimaginable void
+
+     lightfire body gleam inferno 
+     manicure string pulse relief
+
+       unleashed ascendant breath
+
+
+
+
+		~ + ~
+           
+
+
+
+
+God-fumes under the bleaching bodies 
+    the milk-train scalpel of misery
+
+ Colon wrathful, cockatrice spinning
+                       Barbie Death! 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	endotracheal stale, 
+	Google bonds, 
+	blithest fatwas.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+thirsty profane world! 
+
+rapture pain:
+        utterly forbidden
+        $5,000 punish music 
+	 
+	 and one nestled 
+	     marshmallow 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 Carried on the back of a black man's head 
+	 As if it were a thousand years to the day 
+	 
+	 The heart of the world is empty
+	 And the sun, a small thing 
+
+
+
+		~ + ~
+                                                                                                                       
+
+ The man in the house is a clock
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	And The Garden 
+
+ Is going to be a new thing 
+     a piece of a new body 
+ 
+ As if it were a gift, a little 
+          try at being a person 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	Socially Awkward
+
+
+      secret heart 
+     in empty mouth 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ The sea is warm and the stars are dark. 
+ The mountains are full of the sun. 
+ 
+	 The sea said: 
+	       this is the place.
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 I was one of the Old Mountains, 
+	 And a young man at the end of a war. 
+	 
+ The world had no doubts about the woods.
+
+		 A cold rain 
+		 Fell on white 
+		 Empty branches.
+
+		 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+I touch the long mirrors of an abstract land 
+	 
+		    and the crotch 
+		   of my dry heart
+
+	  a little rag of fern
+	 life left at the door
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ A Rite
+
+          The night    is gone
+called to penance by all women
+pulled with love into the eyes 
+
+			  a long &  lovely 
+			  coiling    juice 
+			  enters its heart 
+			 
+	 --  she will not know why 
+	 
+	 
+	 
+	 
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 
+	 Blood  
+	  wildly 
+	  ungratefull
+	   riots. 
+	 
+ All falls in heaven 
+     down to the end. 
+ 
+ Trees open graves in walls. 
+
+ Serene boats shine 
+ Shouting in a wind 
+     that we unfold. 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+in the old lovesick meadow
+ lepers died 
+
+   like soft 
+   tumbling necromancer
+   darkness
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Death shines, 
+	 See there:
+	 It skirmishes. 
+	 
+	 Rare and loaded with fake silk laughter 
+	 It queries  the Lamb's sun-pure  Beyond.
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ cilia opening
+ hazy throats:
+
+ compromise scrap, feather:
+ emptying the compact life. 
+
+ Pocket-watch goodness. Wistfully 
+ Outside us, waits, and crucifies
+ Wants' dishevelled circuitry bed.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+I am the only one of the one who has left me 
+	 
+
+I am the one who is not the one who loved me 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 And in the heart
+	 The world is not a mask. 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	Waves 
+
+		 are the blue 
+		 of the dying
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+
+
+	 
+	 In Memoriam A. H. H. OBIIT MDCCCXXXIII: 5 
+	 
+	 
+	 As morning springs so quickly from the ground, 
+	 Light's song flowers in the meadow's long hair.
+
+	 We no more hear the stars once so long there, 
+	 And the faintest reeds of summer's wide wave.
+
+	 A soft warm air heavy with the sun's breath 
+	 Touches the eastern hills with slow showers 
+	 Wet woods rush to cover the crumbling hills. 
+	 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+		Ghost 
+	 was the second one 
+	    to make a clock
+
+			 and now it 
+			 is the one
+
+	   written in the forest 
+	 by the light of the sun 
+	 as it mourns the moment
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 They are born in their graves; 
+	 Their bodies need and make destruction. 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 CHRONOS 
+
+	 The light of birds 
+	 leapt out of the sun 
+	         like pillars. 
+
+	 They are all things.
+	 But there is nothing there. 
+	 
+	 
+	
+
+		~ + ~
+                                                                                                                       
+
+
+ Like chocolate fervour on mucus stairs 
+ blue excesses of bankrupt blood creapt
+
+ In summer naked, orange, hinged crawling 
+ the barnacles of marble obscura me/you/i 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+It was to fall to him 
+ The revisions, molten in the hidden.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 Wise stationary speculations 
+	 A tender trellis of desecration 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The dream remained, sang the yew, 
+	 clasped whorl horns like dew, 
+	 knew the occupant's tramp flu. 
+
+As demi-god detachable 
+	 holiday algorithms do.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+And I have not seen the great old one 
+	 Who is the poet of the dead 
+	 Who is not the one who is 
+	 Not the one who knows. 
+	 
+	 
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 
+ Some animals in the kitchen are washed 
+ By the glass dawn silence of the heart
+	
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ I have to say
+ That your smile 
+
+ Is the sound of me
+ Is the wound of me
+ Is the round of me   
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ rivers don't hate 
+      what the sad forests think 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+I have crowned myself: Rust of the Rastas.
+As I am not born, so I will not fall.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+Death doesn't work
+   to quicken the lugubrious voices
+	 of the aesthetically poor
+
+
+
+		~ + ~                                                                                                                 
+
+
+		solitary paranoia
+		pontificated and accused
+		fickle invisibility
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Auto-body Corrupt
+
+
+ Fog is already
+   underneath the slaughter arbor, surveying
+   Playboy-knocked stupendous fire-rain. Dissected, it suspects
+    the gales that spurt within the bed, 
+                            sing of sin. 
+
+ Feeling the breast fraught with watery swiftness stir. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Abarbanel
+
+ The consolation he was afraid of 
+     garlanded sand
+
+ (&) Why should it matter more than
+    a half-welcome mini-skirt indiscretion?
+
+ Tortoise fields: bosoms.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Once more nectar, 
+	 through rot-skin, hewed poetry.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Another Revelation. 
+
+
+ Transcender! 
+
+ Cerebrotonic 
+ Tiptoeing
+ Sierras Mold
+ Fables
+
+ Aer: inventor of loathing. 
+ 
+
+
+
+		~ + ~
+     
+
+
+
+
+ The Wish 
+ 
+ 
+ I live in the middle of the sea
+		Where light is a river 
+			 And the sea is not 
+			 A sea 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ 
+ The Beloved 
+ 
+ 
+ The day I saw you was a great bird
+
+ I could not see the sound of the tree 
+ I could not see the secret of the dead 
+ 
+ In the flowers of the architecture of night 
+ I did not hear waves twisted in the sun 
+ Nor hear the stars emitting silent sounds. 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+And the things of love 
+ acknowledged all the pain of language, and the wise 
+ of the living, and the sense that made them still 
+ in that world which is an untainted great spirit
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The Blood On The Banks 
+
+ Of the western sky is made by sun or barley 
+ And the grass comes to the breakers on the hills 
+ With wind bright purple spread below
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 sinewy and dry from 
+	 the green light
+	 invisible scattering
+	 in golden waves
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ In the folds of the moon 
+ all the dying hairs 
+ of an open rose 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+		          Hope 
+
+	 the world was not 
+	 primeval pennants 
+	 of lamb stinging 
+	 improvisations
+	 as sexy as 
+	 new beams
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+  If the sun could utter truth before the garden 
+			 And live where a bird keeps the eye 
+			 I would forget what they came to do 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ The twisted night 
+ Itself — a migratory 
+ Uneasy receptacle 
+ For a difficult bliss
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+	
+		     -- to fat oyster unsex heist 
+		 with cobwebbed cigarette peaches 
+irregular deoxyribonucleic kettle oranges 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+The Awful Hickory-Systemized Faithful Visitor
+
+	curiously advances,	kicking everywhere 
+	that once monstrous array at his feet. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+I don't need contestants nor Libertarians.
+
+I wish the name refused 
+   and cities blooming
+
+      magical-dead 
+	  cirque-drunk 
+	  last-blast 
+	  hiccups
+
+	  -- brick melon vinegar 
+	             ardor pumps 
+
+
+
+
+
+		~ + ~
+   
+
+
+
+	To My Penis 
+
+ Hushing hoof-prints come kindly machine-made 
+ Half without pollen    torn by dew on-screen
+
+ Spleen? Touch-pretending Sharks eating Chablis
+
+ Between your body's occult impulses
+ Dilapidation's nest thriving sorrow
+
+
+
+
+		~ + ~
+                                                                                                                                                                                                                             
+
+
+
+ 
+	 Names took me 
+	 On the river
+
+	 And the rain 
+	 Loved me
+
+
+
+
+		~ + ~
+       
+
+
+
+
+
+
+ My heart is red within my hands
+ A life I weave & stop, the best 
+ I have not to feign, nor will I 
+
+ Drink the frolic fat sprouting pale 
+ Hive that warmed me with a sweating 
+ Voice in my mother's mind, my blood 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+	Disgrace the Buddha 
+
+
+Worthiest appassionato. 
+Moonlit garden tree, fifty-second
+Guidebook earplugs. I do not pray.
+ 
+ What undresses in each house should 
+ Choose the wild cracked lucid plastic-
+ Pillowed appendix sale! 
+ 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+As if new, heart said:
+  everything is hungry with hope
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Darling, I consider 
+ the sun-red compliant
+ insubstantial apparel
+
+ As fuck wounds -- 
+  geometrical scrim.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	And Love 
+
+ will eat the dowry 
+ justify baby-girdered manifold Orisha catarrh 
+      up from precipitating metaphor 
+ 		during an all-forsaken political winter 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+				 the body is 
+				 made  to be
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ The sea, a ribbon;
+ A lark murmurs flashing 
+ Along the edge of its light. 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The sun is where the blood sinks 
+Stars drowned in the dust of sky
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ A tree on the edge of the sea
+ Drinks mist alone on the sand
+ 
+
+
+		~ + ~
+                                                                                                                       
+                                                                                                                       
+
+
+
+	There 
+
+ in the new world pain 
+    a dog snaps like a sigh 
+  out of a whale
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+sinewy dialectics on the path
+
+
+	 save the target 
+	 in a molten splutter 
+	 
+	 select the precise 
+	 air between fragments
+
+
+
+
+		~ + ~
+                                                                                                                       
+                                                                                                      
+
+
+
+ I like night in your flecked form.
+ An equal will where body's music roots.
+
+
+
+
+		~ + ~
+       
+
+
+
+    arthritic liquid
+pondered lost pastures
+
+a ripe chunk of blue cement, 
+	labelled: disintegration
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 Essences cannot sing, nor fathom in-
+	     toxication. Their fire encloses 
+	     flowers. Each forgiven archived breast
+	     glimmers as if its tears impacted bone.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Begin to transform.
+	Ransack the utterance.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 The watchers
+	 Were a kind of feeling
+
+	 Uncommon objects 
+	 For the world to do
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Divorce the cold
+
+
+ Breathless old electronic cylinders 
+  Within stone sacks crying on a bed.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+What humans do to be found, to be in 
+	life, with blind owls 
+	dying in the bright wind.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+							    They come down
+		      deploying inherited fingerprints.
+
+Then they are in the room with the spring that 
+  makes children bleed. Sentences glaring from 
+             shadows at the door of sweet ways.
+
+
+
+
+		~ + ~
+                                                                                                                   
+
+
+ 
+ I am not only the beginning of time
+ I am ribs, loaded hands, and unmoved awareness
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+ Love wakes a bird 
+  erect and blind 
+  in my heart
+ 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+	There! She Insisted 
+
+ Warsaw, Mallarme. What strange dividends. 
+ Daddy, I was God's scut. 
+ 
+ An anvil reagent. Caucasus rust. 
+ 5/3/1883 : Adjacent sewers.
+
+ Impenetrable wolf. A face 
+ Imagined as an open weight.
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Thespesiae fragrances: 
+    a harmless mislaid 
+    permutation  weeps 
+ 
+ Gestation mucus stained with
+             oasis lush stems
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	 Alabama Amaryllis
+
+	 Rose-amber, quelled rocks
+	 sabotaged  anodyne pyrite.
+
+	 Adultery Waterfalls
+	 Grazed the mountain.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 
+	 
+	 The sun is a little bird 
+	 whose nest is in the sky
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ The dead think the body 
+      is a kind of music
+ 
+ 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ Long ago, morning sat on the ground
+    amidst old snow  in the darkness 
+    and the sea was cold as the moon 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+   the way I see it every one of our lives 
+                       involves a counting
+   of dead things that can never be undone
+
+
+
+
+
+
+		~ + ~
+      
+
+
+
+
+     so let the silk of your bright eyes 
+    and the tip of your long soft tongue
+ catch baskets of breath rooted in space 
+
+
+
+
+
+		~ + ~
+                   
+
+
+
+
+
+Though I was the child of alarm, 
+the union of my parents and that 
+	       one that made me come
+
+	   I never shared the mirror 
+	   nor could I hear touching
+
+       All the tools 
+	     in the idea 
+	     of the exit
+	      forbade it
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+After the empty river adopted 
+
+'Ancestors of the Natural Ways 
+ Plague, and Greeks Who Harvested Illusions' 
+
+We could not squat in the book for two days.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Emilia said: who knows 
+         what's to be seen? 
+	 
+	 I could not tell her.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+# 213 [ 0.96 
+
+
+	In The Flame-Flamingo Sky-Light 
+
+ Lamma, satyrs, bibles, pathless cobwebs, old secrets, a general star, all the world and the heavens, a beach at low tide, a song that binds the glide, flesh like the fayre, two cashiers, wood, snow, a fiery sea, a singer, an arm.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ There was thus, the heart at its source. 
+ The outline of a dream, an ancient strange. 
+ Life, too steep for sight, or [[blank]] yes.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Warm Idea Anomalies. 
+ 
+ Nectarine.  Foundry chocolate.
+ Unmindful affectionately mine.
+
+ Timor Mortis conturbat me.
+ Fear of life disturbs you.
+ 
+ He who counts hunts a moth. 
+ His face flat,  ashen dumb.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Late, austere, antagonist, riotous 
+	   I reverberate, consumed. A rumor
+
+	 Revolution becoming strangeness. Tears, 
+	   not the joy due to prophecy.
+
+	 Alterity tripwires over
+	   the distance patience perseveres. 
+	 
+	 
+	 
+	 
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+cf. 
+
+		     illuminating 
+		        delicious 
+		    retrospective 
+		          utopias
+
+         nervous millions 
+                hard lust 
+                  glittery 
+               life-blood
+
+
+      halfway breadbin convolutions 
+ augenting a future of sprites, and
+          ozone wrinkled withdrawal
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+There. While, Becalmed, Enormous. 
+
+ 				  That's the end. 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+Babel Sower. 
+
+ Genet, I'm taking in New York:
+
+ Turning snip purchases, rain-crazed trysts
+  and imagination into pocketless 
+  dandy rainbow hellfire.
+
+ Beguine. Weightless. 
+ Gusty bulk flecked with
+   narcissine roving dust.
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+            The one of the two. 
+ The bright night of the light. 
+        I am the one that I am.
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ 
+ I am a statue of a girl
+ I am the woman who sleeps 
+      crying
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ The old man caught the meadow 
+              in his long hand 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ 
+ The flowers of the ocean came 
+    to be the mind's first light 
+    -- a soul still in the water. 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+ Where he was born, amid
+
+	 the pain of turning 
+	 notes into salt, 
+	 
+	 the heart's slow 
+	 anti-world snow 
+	 
+	 into grime
+	 clotted sidewalks,
+
+	 the flooded self 
+	 breached with bricks
+
+	 into the kitchen's
+	 software curtains
+
+	 scented with dusty feral  
+	 disintegrating bottles,
+
+		      sat two people 
+		 hunkered over pints 
+		        of wet light
+
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+a spark 
+of world peace 
+slept in the womb 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+collusional undertow of rage
+vegetables in the claw of duty
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Lucifer T.V. 
+ 
+  This evening my grandmother told me:
+ "Find the deaf light of the street's
+        ambiguous objects sequestered
+                in an unraised future."
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ 
+ birches? -- inquietudes 
+ downed in dark sunspots 
+ 
+ salt brine glissandos,
+ tank ass berries, plush 
+ button-down posture 
+ encampments, sold
+
+ to break another
+ harsh visionary
+ milk fire
+
+ swollen, fleshy
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+          over eloquence, and 
+lava-driven honeydew machines
+
+	shivering in a mental spa  
+		 --     Nabokov crept
+		 adamant, untractable
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+		Dawn 
+
+	 
+	 still trees, 
+	 lonesome, tell their delirium, 
+	 to every unaltered heart
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+    Slow fields of summer light 
+     beckon the heat of the sun
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	America 
+
+ 
+ In this hour of the old land where you are not 
+ Just flesh eating flesh, where more than light 
+ Softly fills the sun      as water fills night
+
+
+
+
+
+		~ + ~
+              
+
+
+
+
+              i am better at longing
+              than existence
+
+
+
+
+
+		~ + ~
+              
+
+
+
+
+
+          i think of my beloved aunt,
+          senile, as i put the pizza
+               to cook in the fridge
+
+
+
+
+
+		~ + ~
+              
+                                                                                                                
+
+
+
+What you have is one of the least 
+      ways your life can be alive
+         to not expiate the world.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+The books and the rats and I too saw you 
+       enter the rubble of a poem to eat
+
+ 
+ 
+
+		~ + ~
+                                                                                                                      
+
+
+
+
+	 I am young trembling 
+	 swollen black jazz 
+	 hiding from shit 
+	 
+	 absent fur 
+	 no one knew 
+	 how to return
+
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+Diamond skies 
+ Vital cold-blooded disingenuous, 
+     interlocking
+
+	 Tell her, 
+	    & bleed, 
+
+	    Nervous 
+	 With corpses, 
+		     Autumn. 
+	  
+	 She loved seriously 
+	   Blind, there in the Third 
+	      Endorphins. 
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+She opened her legs to find deep 
+                nonchalant ponds
+
+
+        suns half-lost 
+        stung with flame 
+         glutted singing
+
+
+	    more conscious than ever
+	    of occasional dissonance
+	 
+
+						she wept
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 What Joy 
+ I stoop into 
+
+	 a half-known understory
+	 a chafing tune puncture from the head's deep 
+	     
+	       typo 
+	 weeny repentant tillers of cocola Aviv:
+	 pawns 
+
+	 or sad-lidded tiny-stroke truck-farmers. 
+	 
+
+	 					 The boy stares flat. 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Woundfin
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ 
+ 
+ The Argument of the Dead Man 
+ 
+ 
+ I was in the middle of the river 
+     and the wind was a blue blue
+
+ And the deep night of the morning 
+	 was a child being born
+	 
+ And a calm heart lay on the dewy grass
+     somewhere unperceived bleeding
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+  in that summer house, hours 
+                   lying down, thinking
+
+  how the blood, succumbing 
+  without loss, works to heal
+      imaginable and solitary tautness
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ May the wet moons of your quick dark heart 
+    graze, counseling travellers, leaving 
+  anemony happiness,
+ watching it all, being warm. 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+        By the anxieties of wounds
+             in desired structures 
+              hold the sharp hairs 
+ of sickness floating in the blood 
+					 
+
+					 Summer asleep 
+					 Lifts flowers 
+					 Curled sheers
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Into the crowded harvested sunlight
+A swan all essential in haste and so very sensible
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+And although Equality does seem rugged, --
+	Tanned at Cannes, & acting in sextuple 
+	Teeming hijink parades with passionate 
+	Implacability -- self-appeasing & fearfull
+	     it smells of forgotten names given to soul. 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Excited by the violence of wont, I am 
+  seated, betrayed in mitochondrial
+                               waters. 
+ 
+ These are dreams. Difference walls
+     belonging in possibility 
+       only to forgiveness. 
+
+ 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Preaching: Hedon. 
+
+Folly is no dream blush, nor
+	 a decisive icon, stiff-backed 
+	     among networks, flung  
+	         to become the world's bait. 
+	 
+	             Mountain debris
+	 descends with recollections. Seizes 
+	 at nausea. 
+
+
+
+
+	 
+		~ + ~
+                                                                                                                       
+
+
+
+     dew-bedabbled dams
+    pained weep isobars 
+	 an anxious gale of lovers
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 a thin-bribed iron-hearted fire 
+	    embroidering spare 
+	     emblematic bushes, pauses 
+	 by countryfied sunny homes
+
+such flawed days, saturated in moisture, 
+such raw space, uptilted in jostled years
+
+         foresake illusion ill-furnished 
+	             until blue  Wisdom, 
+	               illicit reappears
+
+
+	 							haw!
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+                                                                                                                       
+
+
+
+
+
+
+Cycle
+
+
+Summer night 
+    on the land.
+
+Then sun 
+   in the first breath 
+      of early morning 
+	
+Stars lying down 
+   on frosted grass
+
+A soft fire
+   in the sky
+	 
+A wind 
+   reading 
+         trees
+
+And then night again.
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	To Be 
+ an old man
+
+  a thousand times, a tuft 
+	  of grass that seems to be,
+
+	          a way for the window 
+	    to own the precision of the sun. 
+	 
+ 
+ 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 The blood of the city is not a bath
+      and the magic of the night occurrs
+           on the other side of the road
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 We have no time at the end for 
+	      the shore where it kneels 
+	 And shakes the secret shadow ropes
+	    of the sea, twisted like a tree 
+	 In the streams of the moon. 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+   In the tomb of the world, the knowledge of 
+                    man of a woman is a child 
+                       that seems to be happy 
+	 
+	             It is these wounded who hear 
+	       a wild strain of the night singing
+
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ At the end of the forest (a place
+             like a bird), people 
+                   call storms 
+                     repose. 
+ 
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ The sun does not return 
+ Wrinkles of the snow grow 
+ 
+  Ghosts mountains 
+      eat flowers of loves past
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+
+All That I Know Of All That Is Left
+
+
+	   I know your blue throat, 
+		  writing as you sleep. 
+			 
+		 Smoke-wreaths howling 
+			  over the hot sea 
+			   to see my voice 
+		fall so near your feet. 
+
+		 To see the wild light
+		        as rain breaks
+		        into thin snow 
+		            as i pause
+		         on the stairs 
+		     above the kitchen. 
+
+		 These are minutes to worry 
+		     about. The rain caught 
+		rushing at windows, begging 
+	  to hear the garden in the sun. 
+	 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+Sharpest Vegetarian
+
+  
+ He caught the plastic bird and stood by the wall.
+
+ Now when the bird would try to burn him with a blow, 
+    to make him bleed and be vengeful, a wild mortal 
+           child, hunted by the place, tickled water. 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+see them sleeping: 
+  hair newspapered
+  limbs a maze 
+
+an early inedible light 
+  leaking a timid sweetness
+
+
+
+		~ + ~
+      
+
+
+
+
+We Stand at 53
+
+
+	 In the darkness of future weather
+	  in a heaven where the self of the sun 
+	  can be seen beneath summer's lightning
+
+
+			 In endangered ought, 
+			 where sex is asylum.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Wht steals the pure mutant atom? 
+A voice fucked by blood. 
+ 
+ Summer, unthinkable, 
+ Thinks of an assisted toilet
+ Buffeting the meadow it tumbled from.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+we whip the new
+	 path
+
+	 hungry to git amour
+
+	 a coral glow barbie 
+	 jerking a long plague
+	           of passive attention 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Are you Ready To Eat Chain? 
+
+ Grimaces. Half-trained voices: dark ground. 
+
+ Even erosions pausing. Calfing.
+ Adorations full of prehensions.
+
+ Moralists embracing in remote hospices:
+  switchboards peddling inexplicably inauspicious 
+  limits honed from unreasonable ambitions, 
+  newly-hatched schemes struck down as they are overtaken.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The House of Life: 
+ 
+ 
+ To be a thing of the world 
+       a thing in the world
+                     a song. 
+ 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+         where rivers enter the sun,
+   afflictions of this world become 
+     dissolute questions, rooted in 
+                       blind bodies.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Add a pact 
+	 to the end of the rising 
+	 and welcome the incomprehensible seed. 
+	 
+
+
+
+		~ + ~
+                                                                                                                      
+
+
+
+
+Leave me here to watch over the storm
+
+    Save the story of that hour 
+	 its likeness to a vein 
+  opening the afternoon I was born
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Life is no longer 
+	 the greatest word 
+	 in the presence 
+	 of trees 
+
+	 a raft 
+	 martini
+	 is a mere
+	 speck 
+	  
+	 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 
+	 
+	 
+	 Winter's Voice 
+	 
+	 
+	 The children were so full of longing,
+	 discarded and monstrous on tiptoe.
+
+	 sea-silt mad with the decaying taste 
+	 of remote dust from wandering ships
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+my face was shaking, gnawing evening 
+	 while the voices of the maple
+	 did their utmost to absorb 
+	 solipsisms of identity's protein 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+ Friendship 
+
+
+      I choose years where less 
+    Is sown. Let innocence roam
+    To love a cruel clever foam.
+
+ All words are orphans! I guess
+  The times you hurt descend to 
+       Make you hold me in blue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Thrive, holy. Keep
+  the sound of heaven 
+  rhetorical; your bark 
+	 a delirium rebuffed 
+	         by the sky. 
+	 
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+And I think them singing, 
+then hiss 69.3%.  Killed.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Swollen amused and undressed
+ sirens chuckle over coffee.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	Loss -- Wonderful -- 
+
+ Sometimes the cathedral 
+ 			eats revenge:
+ 			hundred-fold
+ 			base-vacancy
+ 			spit    from 
+ 			yearning-seed. 
+            
+             A bent  
+               wistful parable. 
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+What Is It For 
+ 
+
+	 A world that is not world
+	 The dead who are not dead
+	 A dream that is not dream
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+	 
+
+	Who is the one who makes me 
+	 
+	
+ A kind of identity, a kind of a 
+	    saint, a child in a tree, 
+		a red bird under the sea. 
+	 
+
+
+
+		~ + ~
+            
+
+
+
+ 
+	 Walk into the dark 
+	 Of the earth's age 
+
+	 Lost within a door
+	 Feel the sound of speed 
+
+
+
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Soaring 
+	 sweat 
+	 boiling
+
+	 blue requiem 
+	 for the stones 
+	 my love burned 
+
+	 I am sorry 
+	 I have ears 
+	 for eyes 
+	 
+	 and glands
+	 for hands
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 There are dead 
+	 in the mountains 
+	 in caskets of oak 
+	 in the sway of decay
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+Firewood for pudiera 
+      I lift the rat 
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+ A condition 
+   all-male: 
+
+	   an ancient sunset, 
+	 probably upon the ocean, 
+	  greenish dark, a copper bird 
+	  strapped to my right shoulder
+
+
+		~ + ~
+                                                                                                                       
+                                                                                                       
+
+Brag pain: 
+
+	 reiterated structures in 
+	 thaumaturgic shark-bellies 
+	 destroy mirages
+
+
+
+		~ + ~
+          
+
+
+Talon manicure! 
+
+ imagine heels underground, forlorn; and 
+ the mind's bullet-beaked lip-ice supervised- 
+              shafts seeking exile again.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Sweating Paper
+
+
+  plum percussive
+    moiré afternoon
+  organic remedy ether 
+
+       nothing cut 
+    immanence said
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+     Language gives love offence
+   shucked heartless imputations
+	debts to innoculate excesses
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Who is famous to the dead? 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+	Turn. 
+
+
+ I am a child of the house of the sea,
+ A map of the museum, and a mirror in a field. 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+
+ A tumor dreaming of people.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	 
+	 fixed between my hands, 
+	 listening, I dream the night 
+	 awake. I am not untrue. 
+	 
+	 my name 
+	 enters the darting, 
+	 mood of a flame. 
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+				Un Emblem 
+
+			   (1967-2009) 
+ 
+
+daydream, the task of the divine 
+ turn distant soil    into homes 
+   enter a greater    softness 
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+silences poisoned the brine
+as pale magnolia tubes 
+crept like a worm to listen
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+ I expect bliss 
+ When the words 
+ Following me sing 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Monotone 
+
+   Warm pinpoints 
+   pondered floorboards disarray 
+       vain aching soft helpless zippers.
+
+	 Unreadable gristle, death's 
+	mythological story, LSD, 18- 
+	     toned fretful ecstacies 
+
+					      I rose 
+					    In birds 
+
+	               Riding—riding 
+	 A rusty cove of girlfriends
+
+   Engaged: savouring nine-month fury. 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	nipple  nipple        
+
+
+	    hair
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+judging curses the god-itch, 
+cradles a literal sun-flower
+
+an obsolete rain-crazed porous
+bread arbitrates this disaster
+
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+I am not so much as I am 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+The Circuit 
+ 
+ 
+ 
+ the color of 
+ your body 
+ of light
+ is an abyss
+
+
+	 
+
+		~ + ~
+  
+
+
+
+
+
+
+a name is a mirror 
+not a question
+
+a kind of music 
+in the night 
+	 
+	 
+	 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ 
+ The Progress of the World 
+ 
+
+ 
+ A woman in a book
+  has been waiting for the sea 
+ 
+ She is the same as she 
+  who has never seen her lovers
+     never been with her mother
+
+ pale branches of water
+     hold her in the moon 
+	 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Something made this world 
+to hear the lost
+voices of the dead 
+
+
+	 Each summer of the earth 
+	 The sun harvests latent lives 
+	 Voices leak out of a void all alone
+
+	 
+	 
+	 
+
+
+
+		~ + ~
+         
+
+
+
+
+
+
+	Poem Of The Sacred
+
+ 
+ when I was nine 
+ and happy to see faces
+ seeking a sweet and wild sun
+ 
+ I could see the sounds of women 
+ and in the word of my mother's body 
+ sense flowers in the breast of my mind
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+The Thick Blue 
+
+ 
+ Air offered during the world's destruction
+	 Is only a little slow wind 
+	 Smiling in an archive of hair
+	 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Until the world stood under that bright cell 
+ On the high roof of the river
+ The women moved and tossed
+ And all creatures fell
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Born to a selfish death
+  a meadow-sweet all-night keyboard 
+
+	 I breathe a giant diamond
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+  You must keep an emergency over my tightness 
+
+	    in your body I cease
+	       avoiding my life
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Neuropathology of crepuscular devotion. 
+   Autumn preserving impossible curves.
+   Dahlias cuddled together with vines.
+	
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 
+	 And I am 
+	 And I am not the one
+
+	 I am not 
+	 The only one who is 
+	 
+	 I am not the only one 
+	 I am not 
+	 
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+   Inviolate: All 
+
+		 
+		 leafless rain
+		   whispers
+		    a poem 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The flower of clichés
+
+	   blot  powdered   kindling  
+	   in the glowing   cat
+
+Lips a silent fire in   the dark
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 In the End 
+	 
+	 
+	 I saw a mountain 
+	  membrane 
+	 Of  darkness 
+	 Spring  from a shadow
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+   volcano  anchored  anarchy 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Timid laundromats
+eat tyrants, each 
+
+Extra-Inning wall
+contour  stripped
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+but now a primitive part, just one 
+	 
+        an intense irregular enigma 
+	  of my childhood      in denim
+
+	 leopards on tv, a battery box 
+	        -- this grift world
+
+	      earthy in its weight 
+	     made    sentimental
+
+	    endurance  a voice
+	     like a sea flapping
+
+	       contagious as dust
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Fat! Fat! Fat! Fat! Fat! 
+ I walk on the highway, look at me. 
+
+ Everything is in monsoon 
+ or is rich. 
+ 
+	 Burn my eyes :
+	 deduce polystyrene
+	 probes, clandestine trouble 
+	 youthful, glee! — 
+	 
+	 * 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Prowling gain
+a bored sea-blood goat
+
+(chrysalis cathetetized 
+       covert carnality) 
+
+	 Laughs at porn postcards  
+	 and wonders what Hieroglyphs 
+	            really smell like.
+	 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Drones 
+ crayon-colored
+
+ "Cough" 
+ Tenderly
+
+ connect archaic body archives
+
+		and all its manuals 
+			 break: suggestively
+
+				  even abundance 
+				  gathers clouds
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+                                                                                                  
+
+
+
+Sunflowers in harness
+   shooing 
+	 children solicitously over the waves
+
+ huddling in the hopeful 
+	 italicized Lettuce
+
+	 =  Insular Arousal
+	 Tick-Where-Appropriate 
+	            Narcissus 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+bees in the sky
+imponderable evasions 
+of intolerable  night
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ The night sings 
+ An expired tale
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Love has crept away towards the sea 
+ Where it confronts a frozen screen, 
+ Where the other is never better. 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 The Word is not a helicopter 
+	             that brings food
+
+	Nor an antibiotic where hours
+	                   sort venom
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+A hummingbird shadow touches me, 
+	 Commemorates my body. 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+soap thatched
+ bourgeoisie trivial bouquets 
+ of nowheresvilles' innocence
+ spuming scar-quilled climate-bail
+
+
+
+
+
+		~ + ~
+                                                                                                                   
+
+ Stern God Joe pebble. Now the newborn waif must sew 
+ Motion so that a body keeps ram-shorn cradled wind.
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ O! O pulse! I stretch! I hear!
+ I sweat copious
+ conquered compassion 
+ heart softened, flame-hot mercy
+
+ 					 obliterated hurl
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Contentment. Lonely. 1862: flogged.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+creosote cushion weight
+seals packaged recurrence 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Trim Kidney Enamel 
+
+ laments. windowless night-hawk
+ dematerializing deep sea-banks
+
+ tu-who; 
+ stone-
+  still 
+
+  insistent, with
+  doubt that is well 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 Dew on bough
+	 In blue mid-winter 
+
+	 Turns to the sun
+
+	 The meadows of the mountain light 
+	 And the fields of the lonely wind 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+  an empty ocean 
+  seeks to drink
+
+  what the empty lover 
+  quivering sings 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+All the paths
+ Lack
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	in the murmur 
+	 we conceived 
+	 
+	       behind
+	 the universe
+
+				 a wind 
+				 coming
+				 to sooth all
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+
+
+
+I sat down to palpitate the wind 
+      where the sun paints fires 
+              on young abundance
+
+I was listening to ice 
+     sweating, dancing alone 
+
+
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Sweet instinct 
+
+Migrates 
+	in pursuit of bread
+	        sharp chain 
+	         hypotheses.
+
+ Reverence  is a strand! 
+ A texture under duress! 
+ A law  sharded by calm! 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+disability
+ osmotics
+
+ wilting In-Between
+
+ his decency, soaked Risk 
+         comparison filth 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 condom clubfeet spasm 
+	 bland star propagater
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Do you not see the light of the world?
+ The Ballad of the World 
+ 
+	Braced 
+ in the cool air. 
+ 
+    The Cradle 
+ a kind of music
+
+				 a field of the sea
+				 a clock in the sky
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 And the eyes of the people say 
+	 The children in depression are 
+	 Autumn    time is a dead thing
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 I am buried in dark dream clouds. 
+	 
+	 I am not witness 
+	 to the fat doves 
+	 
+	 in the fading garden 
+	 where water shines
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ The walls are cold bright blood 
+ In the mouth of a young girl machine.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ bring stones
+ cock business
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	feather fundamental 
+	  DELUXE cashier
+
+	trudged too long 
+	    to breed
+
+ the guts of the aspirin
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Avalanche committees float toothy 
+ target clitorises, knowing all 
+
+ their shape and glass and Sellers--whose 
+ envy warm jars,  valiant paddled, tangle
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+ This flat horizon, indifferent to the core,
+ Waits.
+
+ As trees form thoughts, within a sea
+ which dozes.
+ 
+
+
+      
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+sleep poisoned loom veracity 
+plaiting the incurable lump
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+The Importance of South
+
+
+One needs a thirty-seventh day: 
+A peaceful, neglected, raving huge prophet mall. 
+Fish-net thistles, abandoned pinstripes, demon worship.
+
+Rockets waiting in a cup. Precocious
+Rocks doused in impossiblities. 
+Roots in the sun on the hill. 
+	 
+
+
+
+
+
+
+		~ + ~
+    
+
+
+	Be The Same. 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+	 
+	 I am Woman, I am the Woman, 
+	 The world's my love. And the soul of the sea 
+	 Tossed from the deep lake of the sun.
+
+
+
+
+		~ + ~
+       
+
+
+	Friends:
+ One of us is not a mask. 
+ 
+ 
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 A woman 
+	 came down the church aisle 
+	         wearing numb light.
+
+	 She was a cold bird 
+	         on a window.
+
+	 A day resting on a hill. 
+	 
+
+
+
+		~ + ~
+
+
+
+      
+
+ the old and the young men used to
+ take the heart of the town into the sea
+
+ in the first dark cold light of a land where
+ the crows were little stones, and everything 
+     breathed night. 
+ 
+ 
+ 	 
+
+
+		~ + ~
+
+
+
+ 
+ December 
+ 
+ 
+ I waved a blanket 
+   over the ground 
+ 
+ I called the first small 
+              red dog god
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	    Itching In The Streets 
+	   the salt juice of a dry, 
+    fine green sun running in the air 
+  a force of the first body & the next 
+ father of all men, and the first mother 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+  rendered out of water 
+	 and 8-bits of pneumonia
+	 a coder implemented a knife dapp
+
+	 and a dog with LED eyes 
+	 for delaying phong waves 
+	  makes a happy piss-spot
+	 
+	 
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	 
+	 from "We Goodbye" 
+	 
+
+	 The sun breaks you. 
+	 I crave a cup of money. 
+	 Each wish is a decapitation in my heart. 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	And Sprouting 
+
+ An iron rib, Shrouded Consciousness 
+  swings Immense Satisfaction to
+  create a Ravaged Ripe Cacophony
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Deep & Erroneous
+
+	 self-negligence descends 
+      to glide toward death
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	peace and love-shingled
+	    mouths, indestructible, 
+	 within the brain
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+ 
+ In a house of flowers 
+ I have a vision of the world 
+ 
+ 
+	 the sun 
+	 and the stars, 
+	 all blue 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Purple and quick 
+	 The river is dark 
+
+	 And the cold sun of my heart 
+	  resembles the tanned green 
+	  surface of a wall. 
+	 
+	 		~
+
+	 When the frogs go 
+	 The river is full of ice. 
+
+	 All is shadow, 
+	 And the wheat is still. 
+	 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Lush flukes of waste 
+  in funereal concussions 
+   hit the shore waves
+    where a single star
+                    waits
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The building came in streams,— 
+   strands crossing the front door. 
+A nakedness at the end of the hall.
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+Turtles prepare. Travelling over dark
+Green land to see a warm voice touch a wall.
+
+
+		~ + ~
+                                                                                                                       
+
+Western bees sail in a peculiar shape
+Driven to a cry of wild radiance.
+
+
+		~ + ~
+                                                                                                                     
+
+A replica of time curved at the end 
+Fears the sight of an artificial is. 
+
+
+		~ + ~
+                                                                                                                       
+
+Speech winks and conceals its poor hands, re-  
+Senting an audience it did not Will.
+
+
+		~ + ~
+                                                                                                                       
+
+Gypsies meekly urge the mangroves to taste 
+Creativity's gratified beauty. 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+O heart, is this the next way? 
+Molly-deodorized back-stairs.
+
+Supply-feet logically-aligned 
+With authoritorial engagements,
+
+Annihilation grains refocusing
+To satisfy a laurel-bough tomb!
+
+A known descendant's eminent remarks, 
+haplessly green-rooted in paradise?
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Slave-owning Miscellanies 
+  invidious, Bounding the generations.
+
+  Bosom-bone conjugations, trembling, 
+	 (12-yr-old amulet sorrow eclipse
+     insectivorous burglary fragments)
+
+	separating sunsets in space
+	the ephemera of blood
+	a rare barely coherent void
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+	 Dumpsters of smeary streaked paradises
+	 Labelled:  "God, 
+	 you'll love something"
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Sophocles deserts
+the Ocean condition 
+
+gettin deaf
+ panorama dumb:  
+ blanketing fools
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 Stars at the edge of the sea
+		the moon in the trees 
+		  a stream of snow.
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 
+	 I have come to see the old one
+	     who is a woman 
+		 who never knows 
+		 whether she can die 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Mist licks a slow light 
+from the air to form 
+a fabled dark sound
+ 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 blah:
+
+	 I know 
+	 what 
+	 I am. 
+	 
+	 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Fresh 
+
+
+	 while the angels 
+	 bunched together, 
+	 glinting in the night-wind, 
+	     hoarding the light I seek 
+	     -- a tongue steals an eye 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+I am an arid sunburned wind 
+crossed a shimmering street 
+kicking aside the dark debris of hills 
+and at the end of the world, I retrieve a phone 
+	  your voice is the one thing that remains
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	Television-- 
+
+ She bears, supple-sinewed, root
+  apples, devouring lights, offered disgust. 
+  
+ moss rice 
+ sluice green 
+
+ half-stripped 
+ hidden anything
+ held, ever after.
+
+
+
+
+
+		~ + ~
+                                                                                                                       i                                                                                                 
+                                                                                                                                                                                                                              
+
+
+
+ I am not the only thing to say 
+ I have a daughter for a mother
+
+
+
+
+		~ + ~
+                                                                                                                       
+                                                                                                                       
+
+
+
+ 
+ The sun in her mind 
+ Is a human presence 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	Brood. 
+
+ 
+ Touched by the cold habit 
+ of biochemical sin. A wild 
+ whispering country of spears.
+
+ Smell and feel how time has no meaning 
+ and life too is only a reach of a pool.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Hear the Elders  
+  unceasingly lean 
+ across the barrens
+
+ As shadows of birds
+   slice the serrated heaving 
+  of enslaved machines
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	Traverse, gnawing 
+	 jeans, laugh, 
+	        caress. 
+	 
+	 Bra-strap Weaver Marxist 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+I want to live like you 
+To justify the porous mingle — 
+
+ To write your great emotion, how  
+  in a millisecond you hear your sign
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Ossian Chesapeake Tulsa Swerves 
+
+	 crawling in high-sorrowful
+	 ancient ironic inheritance. 
+	 
+	 on a bleak labyrinth source of melody,
+	 a wind within which even kings are led 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ I squeeze their malls 
+ on my fancy blotter
+
+ pale and dust-filled 
+ beneath theory's run
+
+ 		+ 
+ 
+ Corduroy fires, pristine and bland 
+ in empty rose-doll Meng-Tzu jitters
+
+ raging for the Tokugawa wine-gold, 
+ idiocy comments today, August 15th
+
+ dull mistress non-face wafted-away
+ cordonned in  fierce Tyrian simmer 
+
+ accent fingerpopping ungraded 
+ bursty 35 Morituri candidates
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+flodes BEEP a-bove; 
+ ached rockabilly 3800 
+ Electra announced by easy groan 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	Treespace. 
+
+
+ Behold me derelict.
+
+ Startled in a saucepan. 
+
+ Scrambling street eggs. 
+
+ Hunting odoriferous cartoons.
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Skinny 
+ as self-help 
+        skies
+
+Cornstalks of 
+ refrigerator
+   tautology 
+
+Offer coupons 
+  to mystery.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 The lark blows east, where wind is set, 
+	 A moon is in the air, and the old, old 
+	 Life of the sea born, in a little room 
+	 Under lick of snow & blue sun, shivers
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+in the long warm dark dead 
+   a light is 
+							singing
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Labouring 
+	   I do not 
+	    face bliss
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ A red tree    
+  made love with life. 
+ 
+ 
+
+		~ + ~
+                                                                                                                       
+
+
+
+My ancestors assume 
+a bucket of bramble 
+and myrrh equals myth.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 Softer than the stars 
+	 I try to know what gets light
+
+	 Is it a slim stone 
+	 Floating on water?
+	 
+	 Or that which falls out 
+	 Of the bare wet cradle
+	 And stands.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ Often I run to the bush, 
+    to a vanquished edge.
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Uprooted
+
+
+	 I know Manhattan in the summer 
+	   glowing dun
+
+	 have heard science turn ground
+	   until time shimmers
+
+	 watched light hang in the night 
+	   to scrub the dark
+
+	 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Baby God 
+
+ Along a wide leaf-fringed 
+           crack of dawn, 
+ Shining and deep birds 
+           nest
+
+ Minstrels who leap 
+           to weave between winds! 
+ Writhing and mute
+           zero bliss fresh plums. 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+one perturbed 
+promiscuous fjord 
+
+	 with its many-petalled 
+	 brain, abruptly 
+	 slakes down into the grass: 
+			 
+			 a shudder of gazes 
+			    imagining bread
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Coyote, July, Serum 
+ 
+ Liquid sun-silt, wildcarrot 
+      slurred medicine-lamps.  
+ 
+ And Zeus: under the earth, flying.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+	 
+	 They 
+	 walk
+
+	 a shard
+	 pilgrimage
+
+	 thru roasted
+	  inconstancy
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Silent, fiction dies
+   transformed into plexiglass and 
+          sedition's useless facts!
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Clustering acrid engrossed glances become
+wandering  shoeless      dreamers, jagged 
+maneuvering    disjointed       solemnity
+ 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 To be the only one who is the same 
+	 To be the same as the same 
+	 To be one of
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 The body of the body 
+	 Is a kind of life 
+	 
+	 
+	 
+	 
+		~ + ~
+                                                                                                                       
+
+	 
+
+	 Wind opened
+	 As the stars went down
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Next: 
+
+ I was a cowboy in the middle of the ocean. 
+ I was an old black woman in an abandoned motel.
+
+ I was a poet not born yet in any world.
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+   the heart 
+   born in dreams of the sea 
+        from dark's darkness 
+        flings a folded song
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+In autumn light I summon bruises, 
+	copper rib, woolly bone,
+	the stove burns my shirt of pearls 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+ unforced half-dead hunger 
+ powers the daily invasive
+ celestial        moralist
+
+ heart         golden rope 
+ mind        exploitations 
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ O, how they're drowning. 
+ 
+ And indeed this is what is meant 
+  when flowers and thoughts 
+   breathe the love in dust 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Humanity dreams, it is said,  because 
+Slag touched the burning at its birth.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+An Orchard Song for You
+
+
+	Rest in Eternity 
+	the  Old—Away
+
+the Wing that makes the Beast tired
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Lawns burning   hyacinth-lanced sleep
+Stones          tethered to legend
+
+Hackensack migrants 
+	  eating saffron loneliness 
+	
+Gnomes constructing   an art intifada
+
+
+
+
+		~ + ~
+                                                                                                                                                                                                                                 
+
+
+
+
+
+Strong-Bold Weiwei [place Aesthetic here] 
+ 
+ fresh listless  
+ disdain rancid bed 
+ 
+ alterity gold: head-down 
+ clots endless breasts
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+the day I was caught by the sea 
+            the air was so cold
+   the clouds filled with tears
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	Pain
+
+ 
+in the tunnel of the silent 
+pulse    of things that die
+
+wind whispers to make the sun rise
+from a gap         in a void heart
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	in a quiet mind
+     gods are toys
+	  
+	     grim 
+	almost perfect
+  sharks in the skull
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+I thought the word 
+ would take me to the next world 
+ 
+ But it was like a hole 
+  snatched by love 
+ 
+ As a souvenir of a name  
+  truly lost 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+  mouth hurried up from havoc
+   in a half-forgotten way 
+	 to become language
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Look 
+
+	at the rough flumes 
+	 and ragged broken walls 
+	 of an untouchable ballet 
+	 
+ sit 
+
+    at an empty table, where light 
+     is a tune that visits talk
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+Disappearing between sweet stones 
+   (disrupted, swirled, restored) 
+
+ 		   dialogue births union.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+I see the sun lace peaches.
+ 
+ A cormorant on the table. 
+ Rosemary wickerwork. A slice of dawn.
+
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+curve the rope for wren pearl fire
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ The way spores nebula, forward, shielding 
+ their ink-gratified electroencephalograph
+
+ spontaneity from ill-made sobbing pathos 
+ abandoned hidden git-quack piercing plot
+
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ And the sacred body of the young 
+ mother of the mother who is dead 
+
+			 looks at me 
+			              waiting
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	And The River 
+
+ That is the shadow of a heart 
+	A sun burning in the water
+
+		             Never saw 
+					 that garden
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	in the blue  grip of darkness 
+	a river     of snow and stars 
+	see a body        make a poem
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	the sun of the dead 
+	still under the sea 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	Wet, Hurtling 
+
+ Someone said, "It is better to have no mind." 
+ Someone else replied, "We are alone."
+ 
+ 
+ 
+ 
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ Divine  Bound for the Ruins 
+ I'm     diligent to see you 
+ Be the noble air  of my bed
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	 Wise dead sweet friend
+	 I too am pale 
+
+	 Do you still Love money now? 
+	 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Opportunities seethe at the feet of euphoria.
+        An epiphany shrub. Breasts forsythia. 
+                 No error, only always equal.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	sunburned all-sagacious 
+	  in the dried-up grass 
+	      that worried harm 
+		 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	1999, Tuesday? 
+
+ 
+ The wood was torn with purple silver. 
+ Romantic larkspur struck the past.
+
+ Outside hours informed depression: 
+         "Let's dispute the attack."
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+flesh Vedas:
+
+ coxcomb cracked, tough 
+ lilting white thunderclaps
+
+ instinct's deep flunkeys 
+ rainbow vocabularies
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+later--the sea plunges
+	inflammable, a peach
+	resting on an iceberg
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Plankton Meteorite! 
+
+  rabid foam
+  puckered amanuensis
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+The dead are the same as us
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 
+	 One by one:
+	 sky, body of morning, 
+	 carries dark knots away. 
+
+
+	 
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	Never-Broken 
+ 
+		 
+		 in the rain 
+		 the pomegranate 
+		 shines
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+	 
+	 I have been a beautiful 
+	 thing: the interior 
+	 of an idea 
+
+	 but 
+	 I inhabit a body 
+	 hidden in rage 
+
+	 +
+	 
+	 for  a time 
+	 I      know 
+	 
+	 that I am     dead
+	 that I am  waiting 
+	 
+	 for   a moment 
+	 to          be 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	Where The River 
+
+ deep and gray and green 
+ and the last road of the past passed
+ 
+ and all that ever was, was 
+ a field in a forest at night
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ In human touch
+ we are drowsing
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+a spider 
+  buried in the bed
+       told the city stories:
+
+
+
+
+				weaving loss 
+				we reconstruct
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	A Strange Bramble Wept Sweat
+
+ What mercy will call thoughts sublime? 
+ My tongue aches with intolerable presence.
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 armor's denotative 
+	 unnecessitated torment
+
+	 spearheads moss within sand 
+	 unfathers discount consumption 
+
+	 spangles arable juice, seraphic 
+	 alabama vaginas nymphomania plastic
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	Dismounting From Balance Ironically 
+
+
+	Liquor Perseid
+	Glinting Dream-Racked 
+	Ladder Army
+	Parasite Clip
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	The Sun 
+
+ is a little boy
+ on a blue road
+ in the wind
+ with a woman 
+ listening to the moon. 
+ 
+ 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+  
+ The grass in the field 
+ Points like dark hairs on the moon. 
+ 
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+ The bus is 
+ on the hill, and the sun 
+ is among clear trees.
+
+ I feel 
+ its heat. 
+ 
+ I think of my body 
+ as a slice of light among seats.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ Out of human ground, a momentary thing 
+  follows the soul of a single magnolia
+
+    as it lamps from some buried grief 
+       light rhythming into air
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	  the soul is a path and a bird 
+	  in the currents of a wave
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 As the dog of desire, I saw
+	 my beloved burying a bone
+
+	 barb lips, burrowing
+	 in the whole dark 
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+ a rainy day
+ bound the withering
+ wilderness
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+ 
+	 a tiny explanation
+
+	 quickened by their own guilt,
+   in awkward shoes, abruptly rustling
+
+	    distant owls
+	 speed over oak leaves
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+I will report the dead
+and sleep as they struggle
+
+I want to know Nothing 
+of what they Need 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Eros Breakfast 
+	 
+after land's subterranean rise: 
+	 mnemonics on fire 
+	 functioning as granaries
+	 descending on threads of blood.
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+a photocopy of Buddha's nipple:
+ modest unafraid 
+  folded 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Anarchic Trick 
+
+
+ twelve 
+ Haiku bottles
+ under a poster of fugitives
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+incinerated
+ pollinated 
+    chained
+      earth
+      breaks
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+	   When The Sun 
+	 Questions The Mind
+	Wind Becomes Beloved
+		 
+		
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+
+
+ The world is for all to see 
+ 
+ There are no title-deeds to the sky
+  Nor to the land or the wind's will.
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+  All is here by accident
+
+	A poetry of the body:
+	  eyes, finger, mouth 
+	  breath of the stool
+	  grafted to the dinosaurs 
+	  in old firelit blood.
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+ I know not the future, the great bodies, 
+ Nor the trees that will look down upon
+ Them in defiant hunger.
+ 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+
+
+Bodies 
+
+ sand-hemm'd Turgid and yellow, something 
+ read in pleasure. A word or so, 
+
+ Perhaps the thing truly, childhood's 
+ paintings on the grand ponemayu,
+
+ a Thank You at Solace Wither Cove 
+ dullness Availed: I will look still. 
+
+ Look and end my hands. 
+ mint? Assassinations 
+
+ concoction planet, I am a cramp, 
+ Traveler's soar
+
+ zucchini-green denounced 
+ pillows where ducks dine 
+
+
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Patriarchal Malthus
+
+Heaven-as-harem, One unremembering.
+
+	  Naked erased madness. 
+
+	  Spirit, and Khrushchev magazines. 
+	 
+	 
+	 
+	 
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+Milkweed cloud-flakes master 
+  the salamander, and nostalgia- 
+         threaded glass parades. 
+
+Ranch-rote blackness, 
+ as dumb as lustreless
+                poison. 
+
+  Resign everything
+     daylight dwells 
+           downstream.
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+Lamentation: 
+
+ 
+ Guess how evil is defined by the rat: 
+			  Narrow the gouged. **** 
+			  Consider the Bible too. 
+ 
+ Advertising! Before anything you are gone! 
+
+ Then every star-drenched unresponsive quantum self, 
+         resurrects as a glow-worm in passing, just
+
+		 semi-circle lights up in some skyline 
+		 nodding, bowed on slander's brow
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+		Motorcycle Drool 
+
+	 
+	 Kimathi stains 
+	 Sangiardi shake-out
+
+	 beseeching commendation Crow 
+	 cirrocumulus Irascibility used 
+
+	 to form abortions. Crews 
+	 uncapping plumaged Coca-Cola. 
+
+	 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+I place Vellum strewn
+ nontalking mutability 
+
+ on Shtand embosst Nardil, travelers, 
+ hearmscaa to Drycleaners Etain, 1806
+
+ phrase housetop muscle (Greek) scud case, wife's object 
+ (or memory of some barracks, where I am peace, chairman)
+
+ lubricious wistaria, delirious color of constraint, 
+ and at night, lust's rain  -- money, Wang 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+ The House of Life: # 680 [ 0.3 
+	 
+	 
+	 The first time I was born 
+	    was a little difficult
+
+	 There was light 
+	   in the middle 
+	    of the world 
+
+	 And the Secret
+	 when I was that young was that
+
+	 	(and I was not 
+ 		the only one like this) 
+ 		though born a child  in my own body
+
+					    I was a woman who 
+								     is not 
+								    a woman 
+								     who is 
+								  a woman.
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Confession 
+ 
+ 
+ I am a painter, I am a poet. 
+ I am a fire-breathing Catholic C.E.O., 
+ and my mother-in-law's kindergarten teacher.
+
+ I think I think I have a lot of poems to write. 
+ I have no idea   what I have to write, 
+                  but I am  a good man. 
+ 
+ I am the only one 
+      the only one who will 
+ 			           write.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ 
+     When the sun as the sun enters the mind 
+         and a wild sky enters an open mouth: 
+
+   Drooping with fruit from thought and word  
+in the West and the South and the North song
+
+	         Foundry of the Milky Sweet Bear 
+	 white with the eyes of an open question 
+ 
+                 Silent in distant mountains.
+
+	 
+	 
+
+	 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	 the morning  
+	  is a knife
+
+	 where light 
+	      is god
+
+
+
+		~ + ~
+         
+
+
+
+
+
+ in a landscape locked by the heart's rupture 
+ 
+ the moon went down into shadows of the sea 
+ and I shook the door at the top of the bed
+
+ walking back to the boat where the snow shone 
+ over the mud with all the little things
+
+
+
+
+
+		~ + ~
+           
+
+
+
+
+
+Quiet somewhere
+a soul is born. 
+	 
+	 
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Prayer Practitioner Insecticide Exultation
+
+
+ O come my soul to saint ancient winter
+ O 3 million years the sound of remorse
+
+ And the sky will not be my skin 
+ 
+ I am the only way for the hour 
+ To burn the magic alder trees.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+	And Think I Do Not 
+
+ 
+ The water 
+ with its DIRT Yearning for the light of stars 
+            -- a glass updraft. 
+ 
+
+
+	       If I was thinking 
+	   I'd already be in a room 
+	       and would fail again. 
+	 
+				 
+			 
+			  I shall not reach 
+			 where pain is gone
+
+				   And days are 
+				    not to know 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ By unageing Nadab, we let him stay alone 
+ and, with porous helpless poverty chores, 
+ 
+ Aid the gigantic idlers of the beast
+ holding out the moss against wasting, 
+
+ Sitting across from the window to find
+ raw vast tapering grime accomplices for blood. 
+ 
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+ 
+ Well, here's what I think: 
+     nobody agrees with me.
+
+ This is a Living story. 
+ No need to extract another
+
+ Old site of ignorance: it's 
+ not pretty underneath. 
+ 
+ 
+
+
+ 
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ 
+ The poop of Objects, a concept
+    allowed to claim all dawns.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+           Riffs exhale
+  mahogany Neruda and maple 
+  aria lightning, - tallowy
+
+  vibrating schizophrenia
+  nomad-completed
+  vine-prop row-lives 
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+
+
+Big Lazarus touched his Young God
+
+
+You pay or wait to buy your self, 
+  sitting free, a bright freckle of
+    meaning amazed by its outlines.
+
+You drink maribou affected evensong 
+ warmwell orbic, unabashed 
+          remission corpuses. 
+ 
+ Exalted mise-en-scenic 
+ newborns refresh your duty;
+	rolling disjointed, stung by water,
+ 	        in 21st century un-thought.
+
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+	The Cello 
+
+ Willows, finds the syde musk of Pluto, 
+ And adorned, rusts.
+
+
+
+ 
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+  knapsack promiscuity shards cherry-shaded 
+            myriad-handed hush-constructive
+
+        eternities of the World Mother that
+    seize what the devils cease: repetitive
+ snail petals & drawers with a prize inside 
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+Arise--arise!
+
+Always together: little divine iridescent hours.
+Value each workable irony. 
+	 
+	 Bird-hole gossip floating dens.
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+	 The heart of the world is not
+	 The same as the other things that are not
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+
+
+
+	I Come 
+
+ 
+  here in the song
+    a flaming disc
+
+  and a stray line, one 
+      i cannot ever see
+
+
+
+
+
+
+		~ + ~
+                                                                                                                       
+
+
+ 
+ 
+ In The Hand Of The Sun
+ 
+ I have been little more 
+	  than another 
+	    omen of my mother 
+	         sea's tongue  
+
+
+
+
+
+
+
+		~ + ~
+^CTraceback (most recent call last):
+  File "generate_2017-INFINITE-1M_tab_inc.py", line 121, in <module>
+    corpus = data.Corpus(args.data)
+  File "/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/data.py", line 23, in __init__
+    self.valid = self.tokenize(os.path.join(path, 'valid.txt'))
+  File "/home/jhave/Documents/Github/pytorch-poetry-generation/word_language_model/data.py", line 45, in tokenize
+    ids[token] = self.dictionary.word2idx[word]
+KeyboardInterrupt
+jhave@jhave-Ubuntu:~/Documents/Github/pytorch-poetry-generation/word_language_model$ 
